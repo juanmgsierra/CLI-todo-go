@@ -1,0 +1,20 @@
+[
+    {
+        "Title": "Buy milk",
+        "Completed": true,
+        "CreatedAt": "2024-10-02T18:04:10.6473122-06:00",
+        "CompletedAt": "2024-10-02T18:04:10.6473122-06:00"
+    },
+    {
+        "Title": "Buy bread",
+        "Completed": false,
+        "CreatedAt": "2024-10-02T18:04:10.6473122-06:00",
+        "CompletedAt": "2024-10-02T18:26:12.2813021-06:00"
+    },
+    {
+        "Title": "Write code",
+        "Completed": false,
+        "CreatedAt": "2024-10-02T18:29:00.0323083-06:00",
+        "CompletedAt": null
+    }
+]
